@@ -1,10 +1,10 @@
 export const CONTACT_INFO = {
   name: "Marko Lukic",
   email: "maxxdevnova@gmail.com",
-  phone: "+381 621 478 835",
+  phone: "+381 629 231 920",
   location: "Belgrade, Serbia",
   github: "https://github.com/maxxdevnova-bit",
-  linkedin: "https://www.linkedin.com/in/marko-lukic96/"
+  linkedin: "https://www.linkedin.com/in/marko-lukic99/"
 }
 
 export const PROFILE_DESCRIPTION = "Full-stack engineer specializing in Next.js, Node.js, and AI integration. Proven track record of building scalable applications at fast-paced startups, with deep expertise in full-stack development. Passionate about application development, AI agents, and Bitcoin technology. Looking for roles that combine technical innovation with professional growth."
